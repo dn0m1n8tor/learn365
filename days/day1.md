@@ -7,4 +7,4 @@ Index | Section
 ---
 
 #### Learning Resource:
-  * Javascript is hard
+  * Javascriptsss is hard
