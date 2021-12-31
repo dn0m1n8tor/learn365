@@ -7,4 +7,4 @@ Index | Section
 ---
 
 #### Learning Resource:
-  * Javascript is hard as fuck
+  * Javascript is hard as hard
