@@ -8,7 +8,7 @@ Index | Section
 
 #### Learning Resource:
 
-  * [Learn Javascript [12:07min - 13:14min]](https://www.youtube.com/watch?v=KGkiIBTq0y0)
+  * [Learn Javascript [12:07 Hr - 13:14 Hr]](https://www.youtube.com/watch?v=KGkiIBTq0y0)
 
   * [The Tool Box | karma v2 and 4-ZERO-3 - Talk](https://www.youtube.com/watch?v=ZMSX0vCsLOY)
   
