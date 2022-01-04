@@ -8,4 +8,4 @@ Day | Topic
 **1** | [<ul><li>Learn Javascript </li><li> The Tool Box karma v2 and 4-ZERO-3 - Talk </li><li> Finding and exploiting unintended functionality in main web app APIs - Writeup </li><li> Workflow for Javascript Recon</li></ul>](/days/day1.md)
 **2** | [<ul><li>Learn Javascript </li><li> Read BugBounty BootCamp - Book </li><li> Learn Python</li></ul>](/days/day2.md)
 **3** | [<ul><li>Learn Javascript </li><li> AWS Lambda Command Injection - Writeup </li><li> A tale of zero click account takeover - Writeup</li></ul>](/days/day3.md)
-
+**4** | [<ul><li>Learn CSS </li><li> Learn Python</li></ul>](/days/day4.md)
