@@ -6,4 +6,4 @@ Index | Section
 
 #### Learning Resource:
 
-* [Solved XSS Labs on Portswigger](https://portswigger.net/web-security/cross-site-scripting) 
+* [Solved DOM based XSS Labs on Portswigger](https://portswigger.net/web-security/cross-site-scripting) 
