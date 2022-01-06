@@ -10,4 +10,4 @@ Day | Topic
 **3** | [<ul><li>Learn Javascript </li><li> AWS Lambda Command Injection - Writeup </li><li> A tale of zero click account takeover - Writeup</li></ul>](/days/day3.md)
 **4** | [<ul><li>Learn CSS </li><li> Learn Python</li></ul>](/days/day4.md)
 **5** | [<ul><li>Learn Javascript [Revision]</li></ul>](/days/day5.md)
-**6** | [<ul><li>Solved XSS Labs on Portswigger </li></ul>](/days/day6.md)
+**6** | [<ul><li>Solved DOM based XSS Labs on Portswigger </li></ul>](/days/day6.md)
