@@ -12,3 +12,6 @@ Day | Topic
 **5** | [<ul><li>Learn Javascript [Revision]</li></ul>](/days/day5.md)
 **6** | [<ul><li>Solved DOM based XSS Labs on Portswigger </li></ul>](/days/day6.md)
 **7** | [<ul><li>Solved DOM based XSS Labs on Portswigger </li><li> Learn Python</li></ul>](/days/day7.md)
+**8** | [<ul><li>A Cool Account Takeover Vulnerability due to lack of Client Side Validation - WriteUp </li></ul>](/days/day8.md)
+
+
