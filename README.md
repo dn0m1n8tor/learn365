@@ -11,3 +11,4 @@ Day | Topic
 **4** | [<ul><li>Learn CSS </li><li> Learn Python</li></ul>](/days/day4.md)
 **5** | [<ul><li>Learn Javascript [Revision]</li></ul>](/days/day5.md)
 **6** | [<ul><li>Solved DOM based XSS Labs on Portswigger </li></ul>](/days/day6.md)
+**7** | [<ul><li>Solved DOM based XSS Labs on Portswigger </li><li> Learn Python</li></ul>](/days/day7.md)
