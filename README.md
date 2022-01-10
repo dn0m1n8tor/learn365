@@ -14,3 +14,4 @@ Day | Topic
 **7** | [<ul><li>Solved DOM based XSS Labs on Portswigger </li><li> Learn Python</li></ul>](/days/day7.md)
 **8** | [<ul><li>A Cool Account Takeover Vulnerability due to lack of Client Side Validation - WriteUp </li></ul>](/days/day8.md)
 **9** | [<ul><li>WebSockets not Bound by SOP and CORS? - WriteUp </li></ul>](/days/day9.md)
+**10** | [<ul><li>Unauth Cache Purging - WriteUp </li><li> How I was able to change victim’s password using IDN Homograph Attack - WriteUp</li></ul>](/days/day10.md)
