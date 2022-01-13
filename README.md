@@ -17,4 +17,4 @@ Day | Topic
 **10** | [<ul><li>Unauth Cache Purging - WriteUp </li><li> How I was able to change victim’s password using IDN Homograph Attack - WriteUp</li></ul>](/days/day10.md)
 **11** | [<ul><li>Controlling the web message source - Lab </li><li>  JavaScript for Hackers - Video </li><li> HACKING postMessage() - Video </li><li> Introduction postmessage vulnerabilities - Writeup </li><li> Postmessage vulnerability demo -Lab</li></ul>](/days/day11.md)
 **12** | [<ul><li> A simple Data Exfiltration! Excel magic - Writeup</li></ul>](/days/day12.md)
-**13** | [<ul><li> One Token to leak them all : The story of a $8000 NPM_TOKEN - Writeup </li><li> Introduction to GraphQL - GraphQL Exploitation - Part - 1 </li></ul>](/days/day13.md) 
+**13** | [<ul><li> One Token to leak them all : The story of a $8000 NPM_TOKEN - Writeup </li><li> Introduction to GraphQL - GraphQL Exploitation Part1 - Video</li></ul>](/days/day13.md) 
