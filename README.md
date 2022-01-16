@@ -20,3 +20,4 @@ Day | Topic
 **13** | [<ul><li> One Token to leak them all : The story of a $8000 NPM_TOKEN - Writeup </li><li> Introduction to GraphQL - GraphQL Exploitation Part1 - Video</li></ul>](/days/day13.md) 
 **14** | [<ul><li>Finding The Origin IP Behind CDNs - Writeup</li></ul>](/days/day14.md) 
 **15** | [<ul><li>Hunting postMessage Vulnerabilities - White Paper</li></ul>](/days/day15.md) 
+**16** |  [<ul><li>120 Days of High Frequency Hunting - WriteUp </li><li> Hunting postMessage Vulnerabilities - White Paper</li></ul>](/days/day16.md)
