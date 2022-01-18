@@ -21,4 +21,5 @@ Day | Topic
 **14** | [<ul><li>Finding The Origin IP Behind CDNs - Writeup</li></ul>](/days/day14.md) 
 **15** | [<ul><li>Hunting postMessage Vulnerabilities - White Paper</li></ul>](/days/day15.md) 
 **16** |  [<ul><li>120 Days of High Frequency Hunting - WriteUp </li><li> Hunting postMessage Vulnerabilities - White Paper</li></ul>](/days/day16.md)
-**17** | [<ul><li>How to find new/more domains of a company? - Recon Stuff - Writeup</li></ul>](/days/day17.md) 
+**17** | [<ul><li>How to find new/more domains of a company? - Recon Stuff - Writeup</li></ul>](/days/day17.md)
+**18** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day18.md) 
