@@ -23,3 +23,4 @@ Day | Topic
 **16** |  [<ul><li>120 Days of High Frequency Hunting - WriteUp </li><li> Hunting postMessage Vulnerabilities - White Paper</li></ul>](/days/day16.md)
 **17** | [<ul><li>How to find new/more domains of a company? - Recon Stuff - Writeup</li></ul>](/days/day17.md)
 **18** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day18.md) 
+**19** | [<ul><li>The Tale of a Click leading to RCE - Writeup</li></ul>](/days/day19.md)
