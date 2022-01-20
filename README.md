@@ -24,4 +24,4 @@ Day | Topic
 **17** | [<ul><li>How to find new/more domains of a company? - Recon Stuff - Writeup</li></ul>](/days/day17.md)
 **18** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day18.md) 
 **19** | [<ul><li>The Tale of a Click leading to RCE - Writeup</li></ul>](/days/day19.md)
-**20** | [<ul><li>PostMessage Vulnerabilities - WriteUp</li></ul>](/days/day16.md)
+**20** | [<ul><li>PostMessage Vulnerabilities - WriteUp</li></ul>](/days/day20.md)
