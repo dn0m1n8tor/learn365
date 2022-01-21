@@ -25,3 +25,4 @@ Day | Topic
 **18** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day18.md) 
 **19** | [<ul><li>The Tale of a Click leading to RCE - Writeup</li></ul>](/days/day19.md)
 **20** | [<ul><li>PostMessage Vulnerabilities - WriteUp</li></ul>](/days/day20.md)
+**21** | [<ul><li>DVGA - Damn Vulnerable GraphQL Application Part 2 - Video</li></ul>](/days/day21.md)
