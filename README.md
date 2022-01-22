@@ -26,3 +26,4 @@ Day | Topic
 **19** | [<ul><li>The Tale of a Click leading to RCE - Writeup</li></ul>](/days/day19.md)
 **20** | [<ul><li>PostMessage Vulnerabilities - WriteUp</li></ul>](/days/day20.md)
 **21** | [<ul><li>DVGA - Damn Vulnerable GraphQL Application Part 2 - Video</li></ul>](/days/day21.md)
+**22** | [<ul><li>Chrome DevTools Crash Course - Video</li></ul>](/days/day22.md)
