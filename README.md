@@ -30,3 +30,4 @@ Day | Topic
 **23** | [<ul><li>Crontab for Linux Admins - Video</li></ul>](/days/day23.md)
 **24** | [<ul><li>Template Injection in Action:  2-hour workshop on Template Injection (SSTI) </li><li> Read BugBounty BootCamp - Book</li></ul>](/days/day24.md)
 **25** | [<ul><li>Hacking REST APIs: A beginner's guide - Course</li></ul>](/days/day25.md)
+**26** | [<ul><li>Read BugBounty BootCamp - Book </li><li> Read zseano's methodology [pg 1-27] </li></ul>](/days/day26.md)
