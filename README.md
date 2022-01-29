@@ -33,3 +33,4 @@ Day | Topic
 **26** | [<ul><li>Read BugBounty BootCamp - Book </li><li> Read zseano's methodology - Book</li></ul>](/days/day26.md)
 **27** | [<ul><li>Read zseano's methodology - Book</li></ul>](/days/day27.md)
 **28** | [<ul><li>Read zseano's methodology - Book </li><li> Params — Discovering Hidden Treasure in WebApps - Writeup</li></ul>](/days/day28.md)
+**29** | [<ul><li>WebSockets and Hacking - Writeup</li></ul>](/days/day14.md) 
