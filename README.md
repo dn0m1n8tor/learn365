@@ -37,3 +37,4 @@ Day | Topic
 **30** | [<ul><li>Pentesting API Top 10 - Talk</li></ul>](/days/day30.md)
 **31** | [<ul><li>Read BugBounty BootCamp - Book </li><li> Bypassing SSRF Protection to Exfiltrate AWS Metadata from LarkSuite - Writeup</li></ul>](/days/day31.md)
 **32** | [<ul><li>Android: Quick History on Smartphones - Video </li><li> Intro to App Development - Video </li><li> Top 25 Browser Extensions for Pentesters and Bugbounty Hunters (2022) - Writeup</li></ul>](/days/day32.md)
+**33** | [<ul><li> Intro to Android Architecture and Security - Video </li><li> What is an Android Operating System & Its Features - Writeup </li><li> Android Internals 101: How Android OS Starts You Application - Writeup </li><li> Android Security Part 1- Understanding Android Basics - Writeup</li></ul>](/days/day33.md)
