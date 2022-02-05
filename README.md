@@ -40,3 +40,4 @@ Day | Topic
 **33** | [<ul><li> Intro to Android Architecture and Security - Video </li><li> What is an Android Operating System & Its Features - Writeup </li><li> Android Internals 101: How Android OS Starts You Application - Writeup </li><li> Android Security Part 1- Understanding Android Basics - Writeup</li></ul>](/days/day33.md)
 **34** | [<ul><li>Mobile Application Penetration Testing - TCM Course</li></ul>](/days/day34.md)
 **35** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day35.md)
+**36** | [<ul><li> Solved 1-10 Challenges of InjuredAndroid </li><li> Recon methodology of @GodfatherOrwa - Video</li></ul>](/days/day36.md)
