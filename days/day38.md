@@ -6,6 +6,6 @@ Index | Section
 
 #### Learning Resource:
 
-  * [Android App Reverse Engineering 101](https://www.amazon.in/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3)
+  * [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
     * Exercise 1
     * Exercise 2
