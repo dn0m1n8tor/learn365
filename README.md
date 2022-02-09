@@ -42,5 +42,5 @@ Day | Topic
 **35** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day35.md)
 **36** | [<ul><li> Solved 1-10 Challenges of InjuredAndroid </li><li> Recon methodology of @GodfatherOrwa - Video</li></ul>](/days/day36.md)
 **37** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day37.md)
-**38** | [<ul><li>Android App Reverse Engineering 101</li></ul>](/days/day38.md)
-**39** | [<ul><li>Android App Reverse Engineering 101</li></ul>](/days/day39.md)
+**38** | [<ul><li>1,2 Exercises: Android App Reverse Engineering 101</li></ul>](/days/day38.md)
+**39** | [<ul><li>3,4 Exercises: Android App Reverse Engineering 101</li></ul>](/days/day39.md)
