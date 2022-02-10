@@ -44,3 +44,4 @@ Day | Topic
 **37** | [<ul><li>Read BugBounty BootCamp - Book</li></ul>](/days/day37.md)
 **38** | [<ul><li>1,2 Exercises: Android App Reverse Engineering 101</li></ul>](/days/day38.md)
 **39** | [<ul><li>3,4 Exercises: Android App Reverse Engineering 101</li></ul>](/days/day39.md)
+**40** | [<ul><li>Android App Reverse Engineering LIVE! Part 1 - Workshop </li></ul>](/days/day40.md)
