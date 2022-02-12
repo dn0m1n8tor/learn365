@@ -6,4 +6,4 @@ Index | Section
 
 #### Learning Resource:
 
-  * [Troubleshooting connection between WSL and android emulator](https://wwww.google.com)
+  * [Troubleshooting connection between WSL and android emulator](https://www.google.com)
