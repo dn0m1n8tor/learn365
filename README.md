@@ -48,3 +48,4 @@ Day | Topic
 **41** | [<ul><li>Android Architecture + Static Analysis with apktool + gf + jadx </li><li>  Insecure Logging & Storage + Setup Genymotion & pidcat </li></ul>](/days/day41.md)
 **42** | [<ul><li>Troubleshooting connection between WSL and android emulator </li></ul>](/days/day42.md)
 **43** | [<ul><li>Mobexler : A Mobile Application Penetration Testing Platform - Video </li></ul>](/days/day43.md)
+**44** | [<ul><li>Android Pentesting Lab Setup - Writeup </li></ul>](/days/day44.md)
