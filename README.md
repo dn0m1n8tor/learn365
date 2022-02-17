@@ -52,7 +52,7 @@ Day | Topic
 **45** | [<ul><li>Hacking Android Deeplink Issues and Insecure URL Validation - Video </li></ul>](/days/day45.md)
 **46** | [<ul><li>SINGLE-SIGN-ON SECURITY ISSUES : BugBounty BootCamp - Book </li></ul>](/days/day46.md)
 **47** | [<ul><li>Solved Flag 12 & 13 of Injured Android</li></ul>](/days/day47.md)
-**48** | [<ul><li>SSL pinning</li></ul>](/days/day48.md)
+**48** | [<ul><li> Android SSL Pinning Bypass for Bug Bounties & Penetration Testing - Video </li><li> SSL Pinning in Android Part 1 - Writeup </li><li> SSL Pinning in Android Part 2 - Writeup </li><li> What is Android Rooting? - Writeup </li><li> Four Ways to Bypass Android SSL Verification and Certificate Pinning - Writeup</li></ul>](/days/day48.md)
 
 
 
