@@ -53,6 +53,4 @@ Day | Topic
 **46** | [<ul><li>SINGLE-SIGN-ON SECURITY ISSUES : BugBounty BootCamp - Book </li></ul>](/days/day46.md)
 **47** | [<ul><li>Solved Flag 12 & 13 of Injured Android</li></ul>](/days/day47.md)
 **48** | [<ul><li> Android SSL Pinning Bypass for Bug Bounties & Penetration Testing - Video </li><li> SSL Pinning in Android Part 1 - Writeup </li><li> SSL Pinning in Android Part 2 - Writeup </li><li> What is Android Rooting? - Writeup </li><li> Four Ways to Bypass Android SSL Verification and Certificate Pinning - Writeup</li></ul>](/days/day48.md)
-
-
-
+**49** | [<ul><li> Bypassing OkHttp Certificate Pinning - Writeup </li><li> Disabling SSL Pinning in Android Apps using Frida / Objection - Writeup </li><li> How To Bypass Apps Root Detection In Android - Writeup </li></ul>](/days/day48.md)
