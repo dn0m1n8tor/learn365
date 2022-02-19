@@ -54,3 +54,4 @@ Day | Topic
 **47** | [<ul><li>Solved Flag 12 & 13 of Injured Android</li></ul>](/days/day47.md)
 **48** | [<ul><li> Android SSL Pinning Bypass for Bug Bounties & Penetration Testing - Video </li><li> SSL Pinning in Android Part 1 - Writeup </li><li> SSL Pinning in Android Part 2 - Writeup </li><li> What is Android Rooting? - Writeup </li><li> Four Ways to Bypass Android SSL Verification and Certificate Pinning - Writeup</li></ul>](/days/day48.md)
 **49** | [<ul><li> Bypassing OkHttp Certificate Pinning - Writeup </li><li> Disabling SSL Pinning in Android Apps using Frida / Objection - Writeup </li><li> How To Bypass Apps Root Detection In Android - Writeup </li><li> Bug Bounty on Android : setup your Genymotion environment for APK analysis - Writeup</li></ul>](/days/day49.md)
+**50** | [<ul><li> The Ultimate Guide to Android SSL Pinning Bypass - Guide </li></ul>](/days/day50.md)
