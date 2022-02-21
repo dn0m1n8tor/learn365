@@ -56,3 +56,4 @@ Day | Topic
 **49** | [<ul><li> Bypassing OkHttp Certificate Pinning - Writeup </li><li> Disabling SSL Pinning in Android Apps using Frida / Objection - Writeup </li><li> How To Bypass Apps Root Detection In Android - Writeup </li><li> Bug Bounty on Android : setup your Genymotion environment for APK analysis - Writeup</li></ul>](/days/day49.md)
 **50** | [<ul><li> The Ultimate Guide to Android SSL Pinning Bypass - Guide </li></ul>](/days/day50.md)
 **51** | [<ul><li> OAuth terminologies and flows explained - Video  </li><li> OAuth 2.0 Hacking Simplified — Part 1 — Understanding Basics - Writeup  </li><li> OAuth 2.0 Hacking Simplified — Part 2 — Vulnerabilities and Mitigation - Writeup </li></ul>](/days/day51.md)
+**52** | [<ul><li> Bug Bounty — Bypassing Endpoints - Writeup </li></ul>](/days/day52.md)
