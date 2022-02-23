@@ -57,3 +57,4 @@ Day | Topic
 **50** | [<ul><li> The Ultimate Guide to Android SSL Pinning Bypass - Guide </li></ul>](/days/day50.md)
 **51** | [<ul><li> OAuth terminologies and flows explained - Video  </li><li> OAuth 2.0 Hacking Simplified — Part 1 — Understanding Basics - Writeup  </li><li> OAuth 2.0 Hacking Simplified — Part 2 — Vulnerabilities and Mitigation - Writeup </li></ul>](/days/day51.md)
 **52** | [<ul><li> Bug Bounty — Bypassing Endpoints - Writeup </li></ul>](/days/day52.md)
+**53** | [<ul><li> How I made 25000 USD in bug bounties with reverse proxy - Writeup </li></ul>](/days/day53.md)
