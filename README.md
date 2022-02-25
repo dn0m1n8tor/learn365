@@ -59,3 +59,4 @@ Day | Topic
 **52** | [<ul><li> Bug Bounty — Bypassing Endpoints - Writeup </li></ul>](/days/day52.md)
 **53** | [<ul><li> How I made 25000 USD in bug bounties with reverse proxy - Writeup </li></ul>](/days/day53.md)
 **54** | [<ul><li> Intercepting Android Emulator SSL traffic with burp using magisk - Writeup </li></ul>](/days/day54.md) 
+**55** | [<ul><li> Subdomains Tools Review: a full and detailed comparison of subdomain enumeration tools - Writeup </li></ul>](/days/day55.md) 
