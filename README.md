@@ -63,3 +63,4 @@ Day | Topic
 **56** | [<ul><li>Lab: Authentication bypass via OAuth implicit flow </li></ul>](/days/day56.md)
 **57** | [<ul><li>Web Authentication and Authorization Zine - Zine </li></ul>](/days/day57.md)
 **58** | [<ul><li>Forced OAuth profile linking - Lab </li><li> OAuth account hijacking via redirect_uri  - Lab</li><li> Stealing OAuth access tokens via an open redirect - Lab</li></ul>](/days/day58.md)
+**59** | [<ul><li>ANDROID APP SECURITY BASICS (Static analysis - Part 1) - Video </li></ul>](/days/day59.md)
