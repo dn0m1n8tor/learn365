@@ -65,4 +65,4 @@ Day | Topic
 **58** | [<ul><li>Forced OAuth profile linking - Lab </li><li> OAuth account hijacking via redirect_uri  - Lab</li><li> Stealing OAuth access tokens via an open redirect - Lab</li></ul>](/days/day58.md)
 **59** | [<ul><li>ANDROID APP SECURITY BASICS (Static analysis - Part 1) - Video </li></ul>](/days/day59.md)
 **60** | [<ul><li>HACKING ANDROID WebViews (Static analysis - Part 2) - Video </li><li> Getting Started with Android Application Security - Writeup </li><li>Android Pentest: Automated Analysis using MobSF - Writeup</li><li>Static Analysis of Android Application & Tools Used - Writeup</li><li>Complete Android Pentesting Guide - Writeup </li></ul>](/days/day60.md)
-**61** | [<ul><li>Android App Security & Testing </li><li> Exploiting Android activity android:exported="true" </li><li> Exploiting Activity in medium android app </li></ul>](/days/day61.md)
+**61** | [<ul><li>Android App Security & Testing - Writeup</li><li> Exploiting Android activity android:exported="true" - Writeup </li><li> Exploiting Activity in medium android app - Writeup </li></ul>](/days/day61.md)
