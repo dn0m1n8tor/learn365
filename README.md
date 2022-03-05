@@ -68,4 +68,5 @@ Day | Topic
 **61** | [<ul><li>Android App Security & Testing - Writeup</li><li> Exploiting Android activity android:exported="true" - Writeup </li><li> Exploiting Activity in medium android app - Writeup </li></ul>](/days/day61.md)
 **62** | [<ul><li> Android Penetration Testing: Drozer - Writeup</li></ul>](/days/day62.md)
 **63** | [<ul><li> Android Pentest: Deep Link Exploitation - Writeup</li></ul>](/days/day63.md)
+**64** | [<ul><li> Android Applications Pentesting(Static Analysis) - HackTricks</li></ul>](/days/day64.md)
 
