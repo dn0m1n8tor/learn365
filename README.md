@@ -69,4 +69,4 @@ Day | Topic
 **62** | [<ul><li> Android Penetration Testing: Drozer - Writeup</li></ul>](/days/day62.md)
 **63** | [<ul><li> Android Pentest: Deep Link Exploitation - Writeup</li></ul>](/days/day63.md)
 **64** | [<ul><li> Android Applications Pentesting (Static Analysis) - HackTricks</li></ul>](/days/day64.md)
-
+**65** | [<ul><li> OAuth Sign Up AND Log In - Slides</li></ul>](/days/day65.md)
