@@ -71,3 +71,4 @@ Day | Topic
 **64** | [<ul><li> Android Applications Pentesting (Static Analysis) - HackTricks</li></ul>](/days/day64.md)
 **65** | [<ul><li> OAuth Sign Up AND Log In (1-6 Slides) - Slides</li></ul>](/days/day65.md)
 **66** | [<ul><li> Authentication bypass due to weak verification of SAML Token - Writeup</li></ul>](/days/day66.md)
+**67** | [<ul><li>Bypassing Google Authentication on Periscope's Administration Panel - Writeup</li></ul>](/days/day67.md)
