@@ -73,3 +73,4 @@ Day | Topic
 **66** | [<ul><li> Authentication bypass due to weak verification of SAML Token - Writeup</li></ul>](/days/day66.md)
 **67** | [<ul><li>Bypassing Google Authentication on Periscope's Administration Panel - Writeup</li></ul>](/days/day67.md)
 **68** | [<ul><li> Burp Bounty v2 Documentation </li><li> Architect: Major Design Decisions - OAuth </li><li> Classic Web Application: Authorization Code Grant Flow - OAuth</li></ul>](/days/day68.md)
+**69** | [<ul><li>Authorizationcode_tester - Tester: Exploit Mistakes</li></ul>](/days/day69.md)
