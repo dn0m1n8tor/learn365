@@ -75,3 +75,4 @@ Day | Topic
 **68** | [<ul><li> Burp Bounty v2 Documentation </li><li> Architect: Major Design Decisions - OAuth </li><li> Classic Web Application: Authorization Code Grant Flow - OAuth</li></ul>](/days/day68.md)
 **69** | [<ul><li>Authorizationcode_tester - Tester: Exploit Mistakes</li></ul>](/days/day69.md)
 **70** | [<ul><li>Pwning a Server using Markdown - Writeup</li></ul>](/days/day70.md)
+**71** | [<ul><li>Critical XSS in chrome extension - Writeup</li></ul>](/days/day71.md)
