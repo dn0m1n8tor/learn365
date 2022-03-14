@@ -76,3 +76,4 @@ Day | Topic
 **69** | [<ul><li>Authorizationcode_tester - Tester: Exploit Mistakes</li></ul>](/days/day69.md)
 **70** | [<ul><li>Pwning a Server using Markdown - Writeup</li></ul>](/days/day70.md)
 **71** | [<ul><li>Critical XSS in chrome extension - Writeup</li></ul>](/days/day71.md)
+**72** | [<ul><li>Penetrate the Protected Component in Android Part 1 - Writeup</li></ul>](/days/day72.md)
