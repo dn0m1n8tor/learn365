@@ -78,4 +78,4 @@ Day | Topic
 **71** | [<ul><li>Critical XSS in chrome extension - Writeup</li></ul>](/days/day71.md)
 **72** | [<ul><li>Penetrate the Protected Component in Android Part 1 - Writeup</li></ul>](/days/day72.md)
 **73** | [<ul><li>Penetrate the Protected Component in Android Part 2 - Writeup</li></ul>](/days/day73.md)
-**73** | [<ul><li>From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password - Writeup</li></ul>](/days/day74.md)
+**74** | [<ul><li>From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password - Writeup</li></ul>](/days/day74.md)
