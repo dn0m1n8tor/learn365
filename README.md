@@ -79,3 +79,4 @@ Day | Topic
 **72** | [<ul><li>Penetrate the Protected Component in Android Part 1 - Writeup</li></ul>](/days/day72.md)
 **73** | [<ul><li>Penetrate the Protected Component in Android Part 2 - Writeup</li></ul>](/days/day73.md)
 **74** | [<ul><li>From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password - Writeup</li></ul>](/days/day74.md)
+**75** | [<ul><li>How Tapjacking Made a Return with Android Marshmallow — and Nobody Noticed - Writeup</li></ul>](/days/day75.md)
