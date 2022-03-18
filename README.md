@@ -80,3 +80,5 @@ Day | Topic
 **73** | [<ul><li>Penetrate the Protected Component in Android Part 2 - Writeup</li></ul>](/days/day73.md)
 **74** | [<ul><li>From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password - Writeup</li></ul>](/days/day74.md)
 **75** | [<ul><li>How Tapjacking Made a Return with Android Marshmallow and Nobody Noticed - Writeup</li></ul>](/days/day75.md)
+**76** | [<ul><li>How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program? - Writeup</li></ul>](/days/day76.md)
+
