@@ -85,3 +85,4 @@ Day | Topic
 **78** | [<ul><li>Android Development: Java Refresher - Video</li></ul>](/days/day78.md)
 **79** | [<ul><li>Android Development: Activities & Layouts - Video</li></ul>](/days/day79.md)
 **80** | [<ul><li>Android Development: MultiScreen Apps - Video</li></ul>](/days/day80.md)
+**81** | [<ul><li>How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes - Writeup</li></ul>](/days/day81.md)
