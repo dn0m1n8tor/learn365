@@ -86,3 +86,4 @@ Day | Topic
 **79** | [<ul><li>Android Development: Activities & Layouts - Video</li></ul>](/days/day79.md)
 **80** | [<ul><li>Android Development: MultiScreen Apps - Video</li></ul>](/days/day80.md)
 **81** | [<ul><li>How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes - Writeup</li></ul>](/days/day81.md)
+**82** | [<ul><li>From XSS to RCE (dompdf 0day) - Writeup</li></ul>](/days/day82.md)
