@@ -89,4 +89,4 @@ Day | Topic
 **82** | [<ul><li>From XSS to RCE (dompdf 0day) - Writeup</li></ul>](/days/day82.md)
 **83** | [<ul><li>A Detailed Guide on httpx - Writeup</li></ul>](/days/day83.md)
 **84** | [<ul><li>Chapter 24 API Hacking : BugBounty BootCamp - Book</li></ul>](/days/day84.md)
-**85** | [<ul><li>PREPARING FOR API Security Testing : Hacking APIs - Book</li></ul>](/days/day85.md)
+**85** | [<ul><li>Preparing for API Security Testing : Hacking APIs - Book</li></ul>](/days/day85.md)
