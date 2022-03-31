@@ -91,4 +91,4 @@ Day | Topic
 **84** | [<ul><li>Chapter 24 API Hacking : BugBounty BootCamp - Book</li></ul>](/days/day84.md)
 **85** | [<ul><li>Preparing for API Security Testing : Hacking APIs - Book</li></ul>](/days/day85.md)
 **86** | [<ul><li>How web applications work : Hacking APIs - Book</li></ul>](/days/day86.md)
-**87** | [<ul><li>The Anatomy of Web APIs : Hacking APIs - Book</li></ul>](/days/day87.md)
+**87 - 88 - 89** | [<ul><li>The Anatomy of Web APIs : Hacking APIs - Book</li></ul>](/days/day87.md)
