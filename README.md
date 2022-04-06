@@ -95,3 +95,4 @@ Day | Topic
 **91** | [<ul><li>DIVA Android App: Walkthrough - Writeup</li></ul>](/days/day91.md)
 **92** | [<ul><li>The Anatomy of Web APIs : Hacking APIs - Book</li></ul>](/days/day92.md)
 **93** | [<ul><li>Android Penetration Testing: Frida - Writeup</li></ul>](/days/day93.md)
+**94** | [<ul><li>diva apk analysis - Writeup</li></ul>](/days/day94.md)
