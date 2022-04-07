@@ -96,4 +96,5 @@ Day | Topic
 **92** | [<ul><li>The Anatomy of Web APIs : Hacking APIs - Book</li></ul>](/days/day92.md)
 **93** | [<ul><li>Android Penetration Testing: Frida - Writeup</li></ul>](/days/day93.md)
 **94** | [<ul><li>Diva apk analysis - Writeup</li></ul>](/days/day94.md)
-**95** | [<ul><li>Watch out the links : Account takeover! - Writeup</li></ul>](/days/day95.md)
+**95** | [<ul><li>API Authentication: Hacking APIs - Book</li></ul>](/days/day95.md)
+**96** | [<ul><li>Watch out the links : Account takeover! - Writeup</li></ul>](/days/day96.md)
