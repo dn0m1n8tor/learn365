@@ -98,3 +98,4 @@ Day | Topic
 **94** | [<ul><li>Diva apk analysis - Writeup</li></ul>](/days/day94.md)
 **95** | [<ul><li>API Authentication: Hacking APIs - Book</li></ul>](/days/day95.md)
 **96** | [<ul><li>Watch out the links : Account takeover! - Writeup</li></ul>](/days/day96.md)
+**97** | [<ul><li> 10 things you must do when Pentesting Android Applications - Writeup </li><li> Dumping Android application memory with fridump - Writeup </li><li>  Mobile Risks: M1 – Improper platform usage - Writeup</li><li> Mobile Risks: M2 – Insecure data storage - Writeup</li><li> Mobile Risks: M3 – Insecure communication - Writeup </li><li> Understanding the OWASP Mobile Top 10 Security Risks: Part Two (M4-M7) - Writeup </li><li> Understanding the OWASP Mobile Top 10 Security Risks: Part Three (M8-M10) - Writeup </li></ul>](/days/day97.md)
