@@ -103,3 +103,5 @@ Day | Topic
 **99** | [<ul><li>API Insecurities Hacking APIs - Book</li></ul>](/days/day99.md)
 **100** | [<ul><li>How a YouTube Video lead to pwning a web application via SQL Injection worth $4324 bounty - Writeup</li></ul>](/days/day100.md)
 **101** | [<ul><li>Open Android Security Assessment Methodology - Repo</li></ul>](/days/day101.md)
+**102** | [<ul><li>API Insecurities Hacking APIs (page 72 - 81) - Book</li></ul>](/days/day102.md)
+**103** | [<ul><li>API Insecurities Hacking APIs (page 84 - 96)  - Book</li></ul>](/days/day103.md)
