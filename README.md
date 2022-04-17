@@ -107,3 +107,4 @@ Day | Topic
 **103** | [<ul><li>API Insecurities Hacking APIs (page 84 - 96)  - Book</li></ul>](/days/day103.md)
 **104** | [<ul><li>How I made $10K in bug bounties from GitHub secret leaks  - Writeup</li></ul>](/days/day104.md)
 **105** | [<ul><li>Android: How to Bypass Root Check and Certificate Pinning - Writeup </li><li> Comparison of Different Android Root-Detection Bypass Tools - Writeup </li></ul>](/days/day105.md)
+**106** | [<ul><li>Bypassing a WAF by Finding the Origin IP - Video</li></ul>](/days/day106.md)
