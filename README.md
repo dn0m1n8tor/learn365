@@ -111,4 +111,4 @@ Day | Topic
 **107** | [<ul><li>Inspecting Android Traffic using Proxyman + apk-mitm - Writeup</li></ul>](/days/day107.md)
 **108** | [<ul><li>NoSQL Injection in Plain Sight - Writeup</li></ul>](/days/day108.md)
 **109** | [<ul><li>Configuring an out-of-band callback listener and notification service in under 10 minutes using AWS Lambda function URLs and Discord webhooks - Writeup</li></ul>](/days/day109.md)
-**110** | [<ul><li>Supplemental Tools : Hacking APIs (page 84 - 96)  - Book</li></ul>](/days/day110.md)
+**110** | [<ul><li>Supplemental Tools : Hacking APIs - Book</li></ul>](/days/day110.md)
