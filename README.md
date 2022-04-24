@@ -112,3 +112,6 @@ Day | Topic
 **108** | [<ul><li>NoSQL Injection in Plain Sight - Writeup</li></ul>](/days/day108.md)
 **109** | [<ul><li>Configuring an out-of-band callback listener and notification service in under 10 minutes using AWS Lambda function URLs and Discord webhooks - Writeup</li></ul>](/days/day109.md)
 **110** | [<ul><li>Supplemental Tools : Hacking APIs - Book</li></ul>](/days/day110.md)
+**111** | [<ul><li>Android Root Detection Bypass Using Objection and Frida Scripts - Writeup</li></ul>](/days/day111.md)
+**112** | [<ul><li>Configuring Frida with BurpSuite and Genymotion to bypass Android SSL Pinning - Writeup</li></ul>](/days/day112.md)
+**113** | [<ul><li>Find new domains of a company using SSL Certificates - Bug Bounty Recon - Writeup</li></ul>](/days/day113.md)
