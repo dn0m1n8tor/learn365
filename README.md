@@ -116,5 +116,5 @@ Day | Topic
 **112** | [<ul><li>Configuring Frida with BurpSuite and Genymotion to bypass Android SSL Pinning - Writeup</li></ul>](/days/day112.md)
 **113** | [<ul><li>Find new domains of a company using SSL Certificates - Bug Bounty Recon - Writeup</li></ul>](/days/day113.md)
 **114** | [<ul><li>Exploiting Android Fingerprint Authentication - Writeup</li></ul>](/days/day114.md)
-**115** | [<ul><li>Testing-Local-Authentication </li></ul>](/days/day115.md)
+**115** | [<ul><li>Testing-Local-Authentication - Owasp Guide </li></ul>](/days/day115.md)
 **116** | [<ul><li>Bypass of Biometrics & Password Security Functionality For android - Writeup </li></ul>](/days/day116.md)
