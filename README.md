@@ -118,4 +118,4 @@ Day | Topic
 **114** | [<ul><li>Exploiting Android Fingerprint Authentication - Writeup</li></ul>](/days/day114.md)
 **115** | [<ul><li>Testing-Local-Authentication - Owasp Guide </li></ul>](/days/day115.md)
 **116** | [<ul><li>Bypass of Biometrics & Password Security Functionality For android - Writeup </li></ul>](/days/day116.md)
-**117** | [<ul><li>Day 1 - Creating Code for Bypassing Android Security Checks - Video </li></ul>](/days/day117.md)
+**117** | [<ul><li>Creating Code for Bypassing Android Security Checks - Video </li></ul>](/days/day117.md)
