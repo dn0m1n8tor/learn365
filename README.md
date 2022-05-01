@@ -120,3 +120,4 @@ Day | Topic
 **116** | [<ul><li>Bypass of Biometrics & Password Security Functionality For android - Writeup </li></ul>](/days/day116.md)
 **117** | [<ul><li>Creating Code for Bypassing Android Security Checks: Frida - Video </li></ul>](/days/day117.md)
 **118** | [<ul><li>Sharpening your FRIDA scripting skills with Frida Tool - Writeup </li></ul>](/days/day118.md)
+**119** | [<ul><li>Hacking Android Apps with Frida - Video </li></ul>](/days/day119.md)
