@@ -123,3 +123,4 @@ Day | Topic
 **119** | [<ul><li>Hacking Android Apps with Frida - Video </li></ul>](/days/day119.md)
 **120** | [<ul><li>ATO without any interaction : aws cognito misconfiguration - Writeup </li></ul>](/days/day120.md)
 **121** | [<ul><li>NahamCon CTF 2022 Write-up: Click Me! Android challenge - Writeup </li></ul>](/days/day121.md)
+**122** | [<ul><li>Android Application Security [chapter 0x1] - Introduction to Frida - Writeup </li></ul>](/days/day122.md)
