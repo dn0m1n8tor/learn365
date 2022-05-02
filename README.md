@@ -121,3 +121,5 @@ Day | Topic
 **117** | [<ul><li>Creating Code for Bypassing Android Security Checks: Frida - Video </li></ul>](/days/day117.md)
 **118** | [<ul><li>Sharpening your FRIDA scripting skills with Frida Tool - Writeup </li></ul>](/days/day118.md)
 **119** | [<ul><li>Hacking Android Apps with Frida - Video </li></ul>](/days/day119.md)
+**120** | [<ul><li>ATO without any interaction : aws cognito misconfiguration - Writeup </li></ul>](/days/day120.md)
+**121** | [<ul><li>NahamCon CTF 2022 Write-up: Click Me! Android challenge - Writeup </li></ul>](/days/day121.md)
