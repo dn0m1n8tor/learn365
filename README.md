@@ -125,6 +125,10 @@ Day | Topic
 **121** | [<ul><li>NahamCon CTF 2022 Write-up: Click Me! Android challenge - Writeup </li></ul>](/days/day121.md)
 **122** | [<ul><li>Android Application Security [chapter 0x1] - Introduction to Frida - Writeup </li></ul>](/days/day122.md)
 **123** | [<ul><li>Getting started with Frida on Android Apps - Writeup </li></ul>](/days/day123.md)
+**124** | [<ul><li>Exploration of Native Modules on Android with Frida - Writeup </li></ul>](/days/day124.md)
+**125** | [<ul><li>How to exploit GraphQL endpoint: introspection, query, mutations & tools - Writeup </li></ul>](/days/day125.md)
+**126** | [<ul><li>DVGA - Batch Query Attack | GraphQL Exploitation : Part 3 | DVGA - Video </li></ul>](/days/day126.md)
+**127** | [<ul><li>The $16,000 Dev Mistake - Writeup </li></ul>](/days/day127.md)
 
 
 
