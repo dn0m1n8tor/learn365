@@ -129,6 +129,10 @@ Day | Topic
 **125** | [<ul><li>How to exploit GraphQL endpoint: introspection, query, mutations & tools - Writeup </li></ul>](/days/day125.md)
 **126** | [<ul><li>DVGA Batch Query Attack GraphQL Exploitation : Part 3 DVGA - Video </li></ul>](/days/day126.md)
 **127** | [<ul><li>The $16,000 Dev Mistake - Writeup </li></ul>](/days/day127.md)
+**128** | [<ul><li>FirstBlood : HackEvent BugBountyHunter.com  - Reports </li></ul>](/days/day128.md)
+**129** | [<ul><li>Exploring Native Functions with Frida on Android - Writeup </li></ul>](/days/day129.md)
+**130** | [<ul><li>Add JNI(C/C++) into your existing Android app - Writeup </li></ul>](/days/day130.md)
+
 
 
 
