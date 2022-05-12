@@ -132,6 +132,7 @@ Day | Topic
 **128** | [<ul><li>FirstBlood : HackEvent BugBountyHunter.com  - Reports </li></ul>](/days/day128.md)
 **129** | [<ul><li>Exploring Native Functions with Frida on Android - Writeup </li></ul>](/days/day129.md)
 **130** | [<ul><li>Add JNI(C/C++) into your existing Android app - Writeup </li></ul>](/days/day130.md)
+**131** | [<ul><li>Demystifying Frida - Video </li></ul>](/days/day131.md)
 
 
 
