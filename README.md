@@ -133,8 +133,5 @@ Day | Topic
 **129** | [<ul><li>Exploring Native Functions with Frida on Android - Writeup </li></ul>](/days/day129.md)
 **130** | [<ul><li>Add JNI(C/C++) into your existing Android app - Writeup </li></ul>](/days/day130.md)
 **131** | [<ul><li>Demystifying Frida - Video </li></ul>](/days/day131.md)
-
-
-
-
+**132** | [<ul><li>How to hook Android Native methods with Frida (Noob Friendly) - Writeup </li></ul>](/days/day132.md)
 
