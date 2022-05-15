@@ -134,4 +134,7 @@ Day | Topic
 **130** | [<ul><li>Add JNI(C/C++) into your existing Android app - Writeup </li></ul>](/days/day130.md)
 **131** | [<ul><li>Demystifying Frida - Video </li></ul>](/days/day131.md)
 **132** | [<ul><li>How to hook Android Native methods with Frida (Noob Friendly) - Writeup </li></ul>](/days/day132.md)
+**133** | [<ul><li>Instrumenting Native Android Functions using Frida - Writeup </li></ul>](/days/day133.md)
+**134** | [<ul><li>Forging OAuth tokens using discovered client id and client secret - Writeup </li></ul>](/days/day134.md)
+**135** | [<ul><li>Getting started with Android NDK: Android Tutorial - Writeup </li></ul>](/days/day135.md)
 
