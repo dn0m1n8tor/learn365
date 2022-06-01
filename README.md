@@ -147,7 +147,7 @@ Day | Topic
 **143** | [<ul><li>PayPal IDOR via billing Agreement Token (closed Informative, payment fraud) - Writeup </li></ul>](/days/day143.md)
 **144** | [<ul><li>How I Hacked NASA to execute arbitrary commands in their server! - Writeup </li></ul>](/days/day144.md)
 **145** | [<ul><li>SQL injection through HTTP headers - Writeup </li></ul>](/days/day145.md)
-**146** | [<ul><li>How to effectively hunt for vulnerabilities in Wordpress Sites - Writeup </li></ul>](/days/day146.md)
+**146** | [<ul><li>Automate your recon With Censys | HOW Pro hacker use Censys - Writeup </li></ul>](/days/day146.md)
 **147** | [<ul><li>How I Found a company’s internal S3 Bucket with 41k Files - Writeup </li></ul>](/days/day147.md)
 **148** | [<ul><li>Bypassing File Upload Restriction using Magic Bytes - Writeup </li></ul>](/days/day148.md)
 **149** | [<ul><li>Story about more than 3.5 million PII leakage in Yahoo!!! (Using an IOS) - Writeup </li></ul>](/days/day149.md)
