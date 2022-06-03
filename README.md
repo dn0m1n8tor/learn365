@@ -153,3 +153,6 @@ Day | Topic
 **149** | [<ul><li>Story about more than 3.5 million PII leakage in Yahoo!!! (Using an IOS) - Writeup </li></ul>](/days/day149.md)
 **150** | [<ul><li>How to find & access Admin Panel by digging into JS files - Writeup </li></ul>](/days/day150.md)
 **151** | [<ul><li>Solved Lame Box - HTB </li></ul>](/days/day151.md)
+**152** | [<ul><li>Understanding And Identifying Insecure Deserialization - Writeup </li></ul>](/days/day152.md)
+**153** | [<ul><li>Dependency Confusion :  A Supply Chain Attack - Writeup </li></ul>](/days/day153.md)
+**154** | [<ul><li>Solved Lame Box - HTB</li></ul>](/days/day154.md)
