@@ -160,3 +160,8 @@ Day | Topic
 **156** | [<ul><li>If It’s a Feature!!! Let’s Abuse It for $750 - Writeup</li></ul>](https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b)
 **157** | [<ul><li>Business Logic Errors - Art of Testing Cards - Writeup</li></ul>](https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57)
 **158** | [<ul><li>Hacking Nginx: Best ways - Writeup</li></ul>](https://infosecwriteups.com/hacking-nginx-best-ways-7c576cc17ccc)
+**159** | [<ul><li>Frida hooking android part 1 - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-1/)
+**160** | [<ul><li>Frida hooking android part 2 - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-2/)
+**161** | [<ul><li>Frida hooking android part 3 - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-3/)
+**162** | [<ul><li>Frida hooking android part 4 - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-4/)
+**163** | [<ul><li>Frida hooking android part 5: Bypassing AES encryption - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-5/)
