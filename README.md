@@ -3,8 +3,8 @@
 This repository contains all the information shared during my Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. Follow me on Twitter for Regular Updates: [Anubhav Singh](https://twitter.com/AnubhavSingh_). Huge thanks to [Harsh Bothra](https://twitter.com/harshbothra_), from whoam I got motivated to start this Learn365 challenge.
 
 -------
-Day | Topic
-------- | ---
+Day  | Topic
+--- | ---
 **1** | [<ul><li>Learn Javascript </li><li> The Tool Box karma v2 and 4-ZERO-3 - Talk </li><li> Finding and exploiting unintended functionality in main web app APIs - Writeup </li><li> Workflow for Javascript Recon</li></ul>](/days/day1.md)
 **2** | [<ul><li>Learn Javascript </li><li> Read BugBounty BootCamp - Book </li><li> Learn Python</li></ul>](/days/day2.md)
 **3** | [<ul><li>Learn Javascript </li><li> AWS Lambda Command Injection - Writeup </li><li> A tale of zero click account takeover - Writeup</li></ul>](/days/day3.md)
@@ -165,3 +165,9 @@ Day | Topic
 **161** | [<ul><li>Frida hooking android part 3 - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-3/)
 **162** | [<ul><li>Frida hooking android part 4 - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-4/)
 **163** | [<ul><li>Frida hooking android part 5: Bypassing AES encryption - Writeup</li></ul>](https://11x256.github.io/Frida-hooking-android-part-5/)
+**164** | [<ul><li>Exploiting esoteric android vulnerability - Workshop by Sharan & Sanjay at BSides Ahmedabad 2021 - Video</li></ul>](https://www.youtube.com/watch?v=nr4I1aXii-w)
+**165** | [<ul><li>Andromeda- GUI based Dynamic Instrumentation Toolkit powered by Frida - Shivang Desai - Video</li></ul>](https://www.youtube.com/watch?v=qOEaA2CNNmU)
+**166** | [<ul><li>How I found a Critical Bug in Instagram and Got 49500$ Bounty From Facebook - Writeup</li></ul>](https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853)
+**167** | [<ul><li>Hacking into WordPress themes for CVEs and Fun - Writeup</li></ul>](https://medium.com/pentesternepal/hacking-into-wordpress-themes-for-cves-and-fun-bdde6c834344)
+**168** | [<ul><li>Bug Bounty Redacted #4: Writing to S3 buckets & Insecure JWT Implementation - Writeup</li></ul>](https://www.youtube.com/watch?v=F7QvhHJB-ck)
+**169 - 170** | [<ul><li>Android development - Video</li></ul>](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL)
