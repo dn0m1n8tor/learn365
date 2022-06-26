@@ -170,4 +170,4 @@ Day  | Topic
 **166** | [<ul><li>How I found a Critical Bug in Instagram and Got 49500$ Bounty From Facebook - Writeup</li></ul>](https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853)
 **167** | [<ul><li>Hacking into WordPress themes for CVEs and Fun - Writeup</li></ul>](https://medium.com/pentesternepal/hacking-into-wordpress-themes-for-cves-and-fun-bdde6c834344)
 **168** | [<ul><li>Bug Bounty Redacted #4: Writing to S3 buckets & Insecure JWT Implementation - Writeup</li></ul>](https://www.youtube.com/watch?v=F7QvhHJB-ck)
-**169 - 170** | [<ul><li>Android development - Video</li></ul>](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL)
+**169 - 177** | [<ul><li>Android development - Video</li></ul>](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL)
