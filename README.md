@@ -171,3 +171,5 @@ Day  | Topic
 **167** | [<ul><li>Hacking into WordPress themes for CVEs and Fun - Writeup</li></ul>](https://medium.com/pentesternepal/hacking-into-wordpress-themes-for-cves-and-fun-bdde6c834344)
 **168** | [<ul><li>Bug Bounty Redacted #4: Writing to S3 buckets & Insecure JWT Implementation - Writeup</li></ul>](https://www.youtube.com/watch?v=F7QvhHJB-ck)
 **169 - 177** | [<ul><li>Android development - Video</li></ul>](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL)
+**178 - 183** | [<ul><li>Linux 101 - Course</li></ul>](https://academy.tcm-sec.com/p/linux-101)
+**184 - 185** | [<ul><li>Linux Privilege Escalation for Beginners - Course</li></ul>](https://academy.tcm-sec.com/p/linux-privilege-escalation)
