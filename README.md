@@ -181,5 +181,5 @@ Day  | Topic
 195 | [<ul><li>How I was able to Regain access to account deleted by Admin leading to $$$ - Writeup</li></ul>](https://rajeshranjan457.medium.com/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd)
 196 | [<ul><li>OAuth Misconfiguration Leads To Pre-Account Takeover - Writeup</li></ul>](https://infosecwriteups.com/oauth-misconfiguration-leads-to-pre-account-takeover-8f94c1ef50be)
 197 | [<ul><li>How to find Origin IP - Writeup</li></ul>](https://medium.com/@bobby.S/how-to-find-origin-ip-1f684f459942)
-198 | [<ul><li>Android and Java API : Frida - Documentation</li></ul>](https://learnfrida.info/#android-and-java-api)
+198 | [<ul><li>PII Disclosure of Apple Users ($10k) - Writeup</li></ul>](https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36)
 199 | [<ul><li>Android and Java API : Frida - Documentation</li></ul>](https://learnfrida.info/#android-and-java-api)
