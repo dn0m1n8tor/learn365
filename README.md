@@ -183,3 +183,38 @@ Day  | Topic
 197 | [<ul><li>How to find Origin IP - Writeup</li></ul>](https://medium.com/@bobby.S/how-to-find-origin-ip-1f684f459942)
 198 | [<ul><li>PII Disclosure of Apple Users ($10k) - Writeup</li></ul>](https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36)
 199 | [<ul><li>Android and Java API : Frida - Documentation</li></ul>](https://learnfrida.info/#android-and-java-api)
+200 | [<ul><li>Behind the Bug: Password reset poisoning - Writeup </li></ul>](https://noob3xploiter.medium.com/behind-the-bug-password-reset-poisoning-f5a51d890260)
+201 | [<ul><li>Websocket Hijacking to steal Session_ID of victim user - Writeup </li></ul>](https://infosecwriteups.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830)
+202 | [<ul><li>How to use Burp Suite Like a PRO? PART – 1 - Writeup </li></ul>](https://www.pethuraj.com/blog/use-burpsuite-like-a-pro-part-1/)
+203 | [<ul><li>Ultimate Tips And Tricks To Find More Cross-Site Scripting Vulnerabilities - Writeup </li></ul>](https://bxmbn.medium.com/ultimate-tips-and-tricks-to-find-more-cross-site-scripting-vulnerabilities-d2913765e2d5)
+204 | [<ul><li>Setting iOS App Testing Environment with Burp-suite & Corellium - Writeup </li></ul>](https://medium.com/@prinsharma1999/setting-ios-app-testing-environment-with-burp-suite-corellium-21d6eb82b5ca)
+205 | [<ul><li>How I Test For Web Cache Vulnerabilities + Tips And Tricks - Writeup </li></ul>](https://bxmbn.medium.com/how-i-test-for-web-cache-vulnerabilities-tips-and-tricks-9b138da08ff9)
+206 | [<ul><li>Information Disclosure to Account Takeover - Writeup </li></ul>](https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a)
+207 | [<ul><li>You MUST sanitize PHP mail() inputs — or else RCE! - Writeup </li></ul>](https://infosecwriteups.com/you-must-sanitize-php-mail-inputs-or-else-rce-7ac7ba906dca)
+208 | [<ul><li>Mail Server Misconfiguration leads to sending a fax from anyone’s account on HelloFax (Dropbox BBP) for a bounty of $4,913 - Writeup </li></ul>](https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7)
+209 | [<ul><li>How to prevent hackers from reverse engineering your Android apps - Writeup </li></ul>](https://proandroiddev.com/how-to-prevent-hackers-from-reverse-engineering-your-android-apps-2981661ab1c2)
+210 | [<ul><li>How this team accidentally found a SSRF in Slack exposing AWS credentials! A $4000 bug bounty - Writeup </li></ul>](https://infosecwriteups.com/how-this-team-accidentally-found-a-ssrf-in-slack-exposing-aws-credentials-a-4000-bug-bounty-513be19286e)
+211 - 212 | [<ul><li>Linux Privilege Escalation - Pentester acacademy bootcamp </li></ul>]()
+213 - 214 | [<ul><li>Solve linuxprivesc Room - Tryhackme </li></ul>](https://tryhackme.com/room/linuxprivesc)
+215 - 217 | [<ul><li>Frida Scripting Guide for Java - Writeup </li></ul>](https://cmrodriguez.me/blog/frida-scripting-guide/)
+218| [<ul><li>Exploring Native Functions with Frida on Android : part 3 - Writeup </li></ul>](https://mobsecguys.medium.com/exploring-native-functions-with-frida-on-android-part-3-45422ae18caa)
+219 | [<ul><li>Exploring Native Functions with Frida on Android : part 4 - Writeup </li></ul>](https://medium.com/swlh/exploring-native-functions-with-frida-on-android-part-4-22db2c247e29)
+220 | [<ul><li>Stored XSS to Account Takeover : Going beyond document.cookie : Stealing Session Data from IndexedDB  - Writeup </li></ul>](https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43)
+221 | [<ul><li>SQL Injection filter bypass to perform blind SQL Injection - Writeup </li></ul>](http://www.mannulinux.org/2020/09/sql-injection-filter-bypass-to-perform.html)
+222 | [<ul><li>Abusing URL Shortners for fun and profit   - Writeup </li></ul>](https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916 )
+223 | [<ul><li>Android WebView Hacking — Enable WebView Debugging - Writeup </li></ul>](https://infosecwriteups.com/android-webview-hacking-enable-webview-debugging-d292b53f7a63)
+224 | [<ul><li>Defeat the HttpOnly flag to achieve Account Takeover : RXSS - Writeup </li></ul>](https://medium.com/@mohamedtarekq/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192)
+225 -226 | [<ul><li>Android App Hacking - Black Belt Edition - Udemy Course </li></ul>](https://www.udemy.com/course/android-app-hacking-black-belt-edition/)
+
+
+
+
+
+
+
+
+
+
+
+
+
