@@ -201,8 +201,8 @@ Day  | Topic
 219 | [<ul><li>Exploring Native Functions with Frida on Android : part 4 - Writeup </li></ul>](https://medium.com/swlh/exploring-native-functions-with-frida-on-android-part-4-22db2c247e29)
 220 | [<ul><li>Stored XSS to Account Takeover : Going beyond document.cookie : Stealing Session Data from IndexedDB  - Writeup </li></ul>](https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43)
 221 | [<ul><li>SQL Injection filter bypass to perform blind SQL Injection - Writeup </li></ul>](http://www.mannulinux.org/2020/09/sql-injection-filter-bypass-to-perform.html)
-222 | [<ul><li>Abusing URL Shortners for fun and profit   - Writeup </li></ul>](https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916 )
-223 | [<ul><li>Android WebView Hacking — Enable WebView Debugging - Writeup </li></ul>](https://infosecwriteups.com/android-webview-hacking-enable-webview-debugging-d292b53f7a63)
+222 | [<ul><li>Abusing URL Shortners for fun and profit - Writeup </li></ul>](https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916 )
+223 | [<ul><li>Android WebView Hacking : Enable WebView Debugging - Writeup </li></ul>](https://infosecwriteups.com/android-webview-hacking-enable-webview-debugging-d292b53f7a63)
 224 | [<ul><li>Defeat the HttpOnly flag to achieve Account Takeover : RXSS - Writeup </li></ul>](https://medium.com/@mohamedtarekq/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192)
 225 -226 | [<ul><li>Android App Hacking - Black Belt Edition - Udemy Course </li></ul>](https://www.udemy.com/course/android-app-hacking-black-belt-edition/)
 
