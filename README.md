@@ -204,7 +204,16 @@ Day  | Topic
 222 | [<ul><li>Abusing URL Shortners for fun and profit - Writeup </li></ul>](https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916 )
 223 | [<ul><li>Android WebView Hacking : Enable WebView Debugging - Writeup </li></ul>](https://infosecwriteups.com/android-webview-hacking-enable-webview-debugging-d292b53f7a63)
 224 | [<ul><li>Defeat the HttpOnly flag to achieve Account Takeover : RXSS - Writeup </li></ul>](https://medium.com/@mohamedtarekq/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192)
-225 -226 | [<ul><li>Android App Hacking - Black Belt Edition - Udemy Course </li></ul>](https://www.udemy.com/course/android-app-hacking-black-belt-edition/)
+225 -230 | [<ul><li>Android App Hacking - Black Belt Edition - Udemy Course </li></ul>](https://www.udemy.com/course/android-app-hacking-black-belt-edition/)
+231 | [<ul><li>Solving CTF with Frida : Part 1 - Writeup </li></ul>](https://cmrodriguez.me/blog/hpandro-1/)
+231 | [<ul><li>Solving CTF with Frida : Part 2 - Writeup </li></ul>](https://cmrodriguez.me/blog/hpandro-2/)
+231 | [<ul><li>Solving CTF with Frida : Part 3 - Writeup </li></ul>](https://cmrodriguez.me/blog/hpandro-3/)
+231 | [<ul><li>Solving CTF with Frida : Part 4 - Writeup </li></ul>](https://cmrodriguez.me/blog/hpandro-4/)
+231 - 240 | [<ul><li>Watched Android CTF video from Youtube channel Umar_0x01 - Video </li></ul>](https://www.youtube.com/c/Umar0x01)
+241 | [<ul><li>Bypassing ModSecurity for RCEs - Writeup </li></ul>](https://s0md3v.github.io/blog/modsecurity-rce-bypass)
+242 | [<ul><li>Bypassing Amazon WAF to pop an alert() - Writeup </li></ul>](https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e)
+243 | [<ul><li>Exploiting Android’s Task Hijacking - Writeup </li></ul>](https://medium.com/mobis3c/android-task-hijacking-6a3a8848f16e)
+244 - 248 | [<ul><li>Windows Privilege Escalation for Beginners - TCM Course</li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 
 
 
