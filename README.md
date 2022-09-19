@@ -225,17 +225,80 @@ Day  | Topic
 257 | [<ul><li>Reversing an Android sample which uses Flutter - Writeup</li></ul>](https://medium.com/@cryptax/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 258 - 261 | [<ul><li>Windows Privilege Escalation for Beginners - TCM Course</li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 
+<!-- 
+
+#Learn365 - Day 262
+
+☑️Windows Privilege Escalation for Beginners - TCM Course
+
+	🔘 Escalation Path Executable Files
+	🔘 Escalation Path Startup Applications
+	🔘 Escalation Path DLL Hijacking
+
+Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Github Repo: https://github.com/dn0m1n8tor/learn365
+
+
+#Learn365 - Day 263
+
+☑️Windows Privilege Escalation for Beginners - TCM Course
+
+	🔘 Escalation Path Service Permissions (Paths)
+	
+
+Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Github Repo: https://github.com/dn0m1n8tor/learn365
+
+
+#Learn365 - Day 264
+
+☑️Windows Privilege Escalation for Beginners - TCM Course
+
+	🔘 Escalation Path CVE-2019-1388
+	
+Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Github Repo: https://github.com/dn0m1n8tor/learn365
+
+
+#Learn365 - Day 265
+
+☑️Windows Privilege Escalation for Beginners - TCM Course
+
+	🔘 Capstone Challenge
+
+Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Github Repo: https://github.com/dn0m1n8tor/learn365
+
+
+#Learn365 - Day 266
+
+☑️Windows Privilege Escalation for Beginners - TCM Course
+
+	🔘 Capstone Challenge
+
+Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Github Repo: https://github.com/dn0m1n8tor/learn365
+
+
+
+#Learn365 - Day 267
+
+☑️Windows Privilege Escalation for Beginners - TCM Course
+
+	🔘 Capstone Challenge
+
+Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Github Repo: https://github.com/dn0m1n8tor/learn365
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+ -->
