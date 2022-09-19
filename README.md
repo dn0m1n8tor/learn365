@@ -214,6 +214,18 @@ Day  | Topic
 242 | [<ul><li>Bypassing Amazon WAF to pop an alert() - Writeup </li></ul>](https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e)
 243 | [<ul><li>Exploiting Android’s Task Hijacking - Writeup </li></ul>](https://medium.com/mobis3c/android-task-hijacking-6a3a8848f16e)
 244 - 248 | [<ul><li>Windows Privilege Escalation for Beginners - TCM Course</li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+249 | [<ul><li>Cool Recon techniques every hacker misses! - Writeup</li></ul>](https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-1c5e0e294e89)
+250 | [<ul><li>Intruder and CSRF-protected form, without macros - Writeup</li></ul>](https://www.agarri.fr/blog/archives/2020/01/13/intruder_and_csrf-protected_form_without_macros/index.html)
+251 | [<ul><li>New technique 403 bypass - Writeup</li></ul>](https://infosecwriteups.com/403-bypass-lyncdiscover-microsoft-com-db2778458c33)
+252 | [<ul><li>Exploiting XSS with Javascript/JPEG Polyglot - Writeup</li></ul>](https://systemweakness.com/exploiting-xss-with-javascript-jpeg-polyglot-4cff06f8201a)
+253 | [<ul><li>Hacking Android Foreground Services Escalation Of Privileges by Rony Das - Nullcon Goa </li><li>  Jailbreaking iOS in the post-apocalyptic era by CoolStar & Tihmstar - Nullcon Goa</li></ul>]()
+254 | [<ul><li>Can write single Exploit payload which can exploit both HTML and JS injection - Tweet</li></ul>](https://twitter.com/sec_r0/status/1566470552050716677)
+255 | [<ul><li>A context insensitive sqli payload polyglot - Tweet</li></ul>](https://twitter.com/sec_r0/status/1566833869764136962)
+256 | [<ul><li>Find References: The most underrated and underused feature of @Burp_Suite - Tweet</li></ul>](https://twitter.com/sec_r0/status/1569008077331959809)
+257 | [<ul><li>Reversing an Android sample which uses Flutter - Writeup</li></ul>](https://medium.com/@cryptax/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
+258 - 261 | [<ul><li>Windows Privilege Escalation for Beginners - TCM Course</li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+
+
 
 
 
