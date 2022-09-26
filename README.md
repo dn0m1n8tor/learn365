@@ -224,81 +224,8 @@ Day  | Topic
 256 | [<ul><li>Find References: The most underrated and underused feature of @Burp_Suite - Tweet</li></ul>](https://twitter.com/sec_r0/status/1569008077331959809)
 257 | [<ul><li>Reversing an Android sample which uses Flutter - Writeup</li></ul>](https://medium.com/@cryptax/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 258 - 261 | [<ul><li>Windows Privilege Escalation for Beginners - TCM Course</li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
-
-<!-- 
-
-#Learn365 - Day 262
-
-☑️Windows Privilege Escalation for Beginners - TCM Course
-
-	🔘 Escalation Path Executable Files
-	🔘 Escalation Path Startup Applications
-	🔘 Escalation Path DLL Hijacking
-
-Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Github Repo: https://github.com/dn0m1n8tor/learn365
-
-
-#Learn365 - Day 263
-
-☑️Windows Privilege Escalation for Beginners - TCM Course
-
-	🔘 Escalation Path Service Permissions (Paths)
-	
-
-Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Github Repo: https://github.com/dn0m1n8tor/learn365
-
-
-#Learn365 - Day 264
-
-☑️Windows Privilege Escalation for Beginners - TCM Course
-
-	🔘 Escalation Path CVE-2019-1388
-	
-Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Github Repo: https://github.com/dn0m1n8tor/learn365
-
-
-#Learn365 - Day 265
-
-☑️Windows Privilege Escalation for Beginners - TCM Course
-
-	🔘 Capstone Challenge
-
-Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Github Repo: https://github.com/dn0m1n8tor/learn365
-
-
-#Learn365 - Day 266
-
-☑️Windows Privilege Escalation for Beginners - TCM Course
-
-	🔘 Capstone Challenge
-
-Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Github Repo: https://github.com/dn0m1n8tor/learn365
-
-
-
-#Learn365 - Day 267
-
-☑️Windows Privilege Escalation for Beginners - TCM Course
-
-	🔘 Capstone Challenge
-
-Link: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
-
-Github Repo: https://github.com/dn0m1n8tor/learn365
-
-
-
-
-
-
- -->
+262 | [<ul><li> Escalation Path Executable Files - WindowsPriv </li><li> Escalation Path Startup Applications - WindowsPriv</li><li> Escalation Path DLL Hijacking - WindowsPriv</li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+263 | [<ul><li>Escalation Path Service Permissions (Paths) - WindowsPriv </li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+264 | [<ul><li>Escalation Path CVE-2019-1388 - WindowsPriv </li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+265-267 | [<ul><li>Capstone Challenge - WindowsPriv </li></ul>](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
+268-269 | [<ul><li>Wreath Room  - Tryhackme </li></ul>](https://tryhackme.com/room/wreath)
