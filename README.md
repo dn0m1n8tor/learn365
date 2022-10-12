@@ -231,7 +231,7 @@ Day  | Topic
 268-270 | [<ul><li>Wreath Room  - Tryhackme </li></ul>](https://tryhackme.com/room/wreath)
 271 | [<ul><li>Network Pivoting using Metasploit and Proxychains  - Writeup </li></ul>](https://blog.pentesteracademy.com/network-pivoting-using-metasploit-and-proxychains-c04472f8eed0)
 272 | [<ul><li>Metasploit: Pivoting  - Writeup </li></ul>](https://medium.com/swlh/metasploit-pivoting-281636b23279)
-272 - 274| [<ul><li>Explore Hidden Networks With Double Pivoting  - Writeup </li></ul>](https://pentest.blog/explore-hidden-networks-with-double-pivoting/)
+273 - 274| [<ul><li>Explore Hidden Networks With Double Pivoting  - Writeup </li></ul>](https://pentest.blog/explore-hidden-networks-with-double-pivoting/)
 275 | [<ul><li>Pivoting Entire Network with Chisel  - Video </li></ul>](https://www.youtube.com/watch?v=srUUUkcYEwg)
 276 | [<ul><li>Deep dive in double network Pivoting with Metasploit and ProxyChains  - Video </li></ul>](https://www.youtube.com/watch?v=J-F_3PMbNGo)
 277 | [<ul><li>lazyadmin - Tryhackme Room </li></ul>](https://tryhackme.com/room/lazyadmin)
