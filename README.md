@@ -282,8 +282,8 @@ Day  | Topic
 340 | [<ul><li> Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass - Writeup </li></ul>](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
 341 | [<ul><li> Nuclei v2.8.0 - Fuzz all the way! - Writeup </li></ul>](https://blog.projectdiscovery.io/nuclei-fuzz-all-the-way/)
 342 | [<ul><li> Race Condition vulnerability in Azure Video Indexer allowed trial account users use Advance / Premium feature  - Writeup </li></ul>](https://blog.agilehunt.com/blogs/security/race-condition-vulnerability-in-azure-video-indexer-allowed-trial-account-users-use-advance-premium-feature)
-343 | [<ul><li>  Exploiting Missing HSTS - Writeup </li></ul>]( https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b)
-344 | [<ul><li> ony Mobile Frameworks Reverse Engineering | Write Up Wreck IT 2022 CTF Quals - Writeup </li></ul>](https://maulvialf.medium.com/write-up-wreckit-3-0-quals-rev-suusamyr-527f3e7a8c4_
+343 | [<ul><li> Exploiting Missing HSTS - Writeup </li></ul>]( https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b)
+344 | [<ul><li> Kony Mobile Frameworks Reverse Engineering Write Up Wreck IT 2022 CTF Quals - Writeup </li></ul>](https://maulvialf.medium.com/write-up-wreckit-3-0-quals-rev-suusamyr-527f3e7a8c4)
 345-346 | [<ul><li> JavaScript prototype pollution: practice of finding and exploitation - Writeup </li></ul>](https://infosecwriteups.com/javascript-prototype-pollution-practice-of-finding-and-exploitation-f97284333b2)
 347-348 | [<ul><li> How to Hack WebSockets and Socket.io - Writeup </li></ul>](https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/)
 349 | [<ul><li> Doing it the researcher’s way: How I Managed to Get SSTI which lead to arbitrary file reading on One of the Leading Payment Systems in Asia - Writeup </li></ul>](https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104)
