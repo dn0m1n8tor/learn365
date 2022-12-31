@@ -263,3 +263,73 @@ Day  | Topic
 322 | [<ul><li>$250 for Email account enumeration using NameToMail tool - Writeup </li></ul>](https://medium.com/@snoopy101/250-for-email-account-enumeration-using-nametomail-tool-cce02a17ade8)
 323 | [<ul><li>How i found 8 vulnerabilities in 24h - Writeup </li></ul>](https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487)
 324 | [<ul><li>Account Takeovers Believe the Unbelievable - Writeup </li></ul>](https://www.synack.com/blog/account-takeovers-believe-the-unbelievable/)
+324 | [<ul><li>Account Takeovers Believe the Unbelievable - Writeup </li></ul>](https://www.synack.com/blog/account-takeovers-believe-the-unbelievable/)
+
+325 | [<ul><li>JSON based XSS - Writeup </li></ul>](https://koumudi-garikipati.medium.com/json-based-xss-84089141c136)
+326 | [<ul><li>Domain hacks with unusual Unicode characters - Writeup </li></ul>](https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/)
+
+327 | [<ul><li>Deep Link Exploitation: Introduction & Open/unvalidated Redirection - Writeup </li></ul>](https://medium.com/mobis3c/deep-link-exploitation-introduction-open-unvalidated-redirection-b8344f00b17b)
+
+328 | [<ul><li> Exploiting Android WebView Vulnerabilities - Writeup </li></ul>](https://medium.com/mobis3c/exploiting-android-webview-vulnerabilities-e2bcff780892#6537)
+
+329 | [<ul><li> SSRF via DNS Rebinding CVE-2022–4096 - Writeup </li></ul>](https://infosecwriteups.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2)
+
+330 | [<ul><li> Unique Rate limit bypass worth 1800$ - Writeup </li></ul>](https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972)
+331 | [<ul><li> Getting started with Code Review - Security Boat Meetup </li></ul>]
+
+332 | [<ul><li> Firebase Exploit bug bounty - Writeup </li></ul>](https://medium.com/@damaidec/firebase-exploit-bug-bounty-be63f4dc1e4a)
+
+333 | [<ul><li> A Guide to DNS Takeovers: The Misunderstood Cousin of Subdomain Takeovers - Writeup </li></ul>](https://blog.projectdiscovery.io/guide-to-dns-takeovers/)
+
+334 | [<ul><li> Calculating CVSS - Writeup </li></ul>](https://gupta-bless.medium.com/calculating-cvss-d30b9ef5e941)
+
+335 | [<ul><li> Multiple Vulnerabilities found in Airtel Android Application - Writeup </li></ul>](https://offsec.space/posts/airtel-vulnerabilities/)
+336 | [<ul><li> Remote Command Execution in a Bank Server - Writeup </li></ul>](https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe)
+
+
+337 | [<ul><li>  How I made $31500 by submitting a bug to Facebook - Writeup </li></ul>](https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204)
+
+338 | [<ul><li> Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys - Writeup </li></ul>](https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys)
+
+339 | [<ul><li>  Understanding IMAP/SMTP injection - Writeup </li></ul>](https://gupta-bless.medium.com/understanding-smtp-injection-8de282334bf)
+
+
+340 | [<ul><li> Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass - Writeup </li></ul>](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
+
+341 | [<ul><li> Nuclei v2.8.0 - Fuzz all the way! - Writeup </li></ul>](https://blog.projectdiscovery.io/nuclei-fuzz-all-the-way/)
+
+342 | [<ul><li> Race Condition vulnerability in Azure Video Indexer allowed trial account users use Advance / Premium feature  - Writeup </li></ul>](https://blog.agilehunt.com/blogs/security/race-condition-vulnerability-in-azure-video-indexer-allowed-trial-account-users-use-advance-premium-feature)
+
+
+343 | [<ul><li>  Exploiting Missing HSTS - Writeup </li></ul>]( https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b)
+
+344 | [<ul><li> ony Mobile Frameworks Reverse Engineering | Write Up Wreck IT 2022 CTF Quals - Writeup </li></ul>](https://maulvialf.medium.com/write-up-wreckit-3-0-quals-rev-suusamyr-527f3e7a8c4_
+345-346 | [<ul><li> JavaScript prototype pollution: practice of finding and exploitation - Writeup </li></ul>](https://infosecwriteups.com/javascript-prototype-pollution-practice-of-finding-and-exploitation-f97284333b2)
+
+
+347-348 | [<ul><li> How to Hack WebSockets and Socket.io - Writeup </li></ul>](https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/)
+
+349 | [<ul><li> Doing it the researcher’s way: How I Managed to Get SSTI which lead to arbitrary file reading on One of the Leading Payment Systems in Asia - Writeup </li></ul>](https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104)
+
+350 | [<ul><li>  Unusual Cache Poisoning between Akamai and S3 buckets - Writeup </li></ul>](https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/)
+351 - 352 | [<ul><li>Infoseccomm event - Event </li></ul>]()
+
+353 | [<ul><li>  Param Hunting to Injections - Writeup </li></ul>](https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf)
+
+354 | [<ul><li>  How I was able to steal users credentials via Swagger UI DOM-XSS - Writeup </li></ul>](https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96)
+
+355 | [<ul><li> Understanding Memcache Injection - Writeup </li></ul>](https://infosecwriteups.com/understanding-memcache-injection-d4d8f57595f0)
+356 | [<ul><li> GraphQL Pentesting for Dummies! Part-1 - Writeup </li></ul>](https://anugrahsr.in/graphql-pentesting-for-dummies_part1/)
+
+357 - 359| [<ul><li> Gaining Access to Protected Components In Android - Writeup </li><li> Penetrate the Protected Component in Android Part -1 - Writeup </li><li> Penetrate the Protected Component in Android Part -2  - Writeup </li><li>Android Hacking-Exploiting Content Providers</li></ul>](https://www.youtube.com/watch?v=11cscd_okgw&t=2618s&ab_channel=Payatu)
+
+
+360 | [<ul><li> Hack crypto secrets from heap memory to exploit Android application - Writeup </li></ul>](https://infosecwriteups.com/hack-crypto-secrets-from-heap-memory-to-exploit-android-application-728097fcda3)
+
+361 | [<ul><li>  $350 XSS in 15 minutes - Writeup </li></ul>](https://infosecwriteups.com/350-xss-in-15-minutes-dcb74ad93d5f)
+
+362 | [<ul><li>   Command-Line Data-Wrangling by Tomnomnom - Video </li></ul>]( https://www.youtube.com/watch?v=QSq-aYYQpro&ab_channel=NahamSec)
+363 | [<ul><li>  Unauthorized Sign-up on Subdomain of Subdomain leading to Organization takeover worth $2000 - Writeup </li></ul>](https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b)
+364 | [<ul><li>  Exploring the World of ESI Injection - Writeup </li></ul>](https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91)
+365 | [<ul><li>  SSRF vulnerabilities caused by SNI proxy misconfigurations - Writeup </li></ul>](https://www.invicti.com/blog/web-security/ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations/)
+
